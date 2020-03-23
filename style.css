@@ -1,0 +1,28 @@
+style: 
+* {
+  margin:0;
+  padding:0;
+  max-width: 100%;
+}
+
+body {
+
+	background-image: url('Food BG.gif');
+	background-size: 60%
+
+}
+
+.column {
+  float: left;
+  width: 50%;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+
+}
